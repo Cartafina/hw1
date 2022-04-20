@@ -110,7 +110,6 @@ CREATE TABLE movies (
     title TEXT,
     year_released TEXT,
     MPAA_rating TEXT,
-    studio TEXT,
     studio_id INTEGER
 );
 CREATE TABLE studios (
