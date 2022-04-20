@@ -166,13 +166,11 @@ INSERT INTO movies (
     1
 );
 INSERT INTO top_casts (
-    movie_title,
     actor_name,
     character,
     movie_id,
     actor_id
 ) VALUES (
-    "Batman Begins",
     "Christian Bale",
     "Bruce Wayne",
     1,
